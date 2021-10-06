@@ -1,0 +1,3 @@
+import { validate } de ' jest-validate ';
+
+validate ( config , validationOptions) ;
